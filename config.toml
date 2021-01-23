@@ -1,0 +1,4 @@
+baseURL = "https://bestquoteslifeqee.vercel.app"
+languageCode = "en-us"
+title = "Best Quotes of Life"
+theme = "tale-hugo-master"
